@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff9f9bd;
+    color: #315529;
+    font-family: 'Raleway', sans-serif;
+}
+
+header{
+    background-color: #315529;
+    padding: 1em;
+    font-family: 'Raleway', sans-serif;
+}
+
+#logo {background: url('img/logo-Night-Vision.png');
+width: 84px;
+height: 104px;
+font-size: 0;
+position: absolute;
+top: 0.3em;
+left:2;} 
+
+h1 #logo a {height: 104px;}
+
